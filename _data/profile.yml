@@ -1,0 +1,66 @@
+primary_name: "Shaobo Li"
+secondary_name: ""
+navbar_name: "Shaobo Li"
+
+positions:
+- name: Ph.D. Student, ECE
+- name: University of Illinois Urbana-Champaign
+
+
+email: "shaobol2@illinois.edu"
+# cv_link: link-to-your-cv-file
+gscholar: IH1qn5gAAAAJ
+github: pollux006
+# twitter: your_twitter_id
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    I am an ECE Ph.D. student at the
+    <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a>,
+    advised by <a href="https://jianh.web.engr.illinois.edu/" target="_blank">Prof. Jian Huang</a>
+    as a member of the
+    <a href="https://platformxlab.github.io/" target="_blank">Systems Platform Research Group</a>.
+    I am interested in building advanced and efficient file systems and
+    storage-system software for modern AI infrastructure and emerging hardware.
+  </p>
+  <p>
+    Prior to my Ph.D. study, I obtained my Bachelor's degree in ECE from UIUC.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+#   Photo caption (optional).
+
+education:
+- name: University of Illinois Urbana-Champaign
+  position: >-
+    Department of Electrical and Computer Engineering <br/>
+    Ph.D. Student
+  date: present
+- name: University of Illinois Urbana-Champaign
+  position: B.S. in Electrical and Computer Engineering
+  date: prior
+
+experience:
+- name: Alibaba Cloud
+  position: Research Intern
+  date: May 2023 - Aug 2023
+- name: UIUC ECE391 Computer Systems Engineering
+  position: Graduate Teaching Assistant
+  date: Spring 2023
+- name: UIUC ECE411 Computer Organization and Design
+  position: Graduate TA (Fall 2023), Volunteer TA (Spring 2022)
+  date: 2022 - 2023
+
+# awards:
+# - name: Award Name
+#   date: Year
+
+services:
+- name: Artifact Evaluation Committee, ASPLOS
+  date: 2023
+- name: Artifact Evaluation Committee, EuroSys
+  date: 2022
